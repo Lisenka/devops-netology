@@ -6,3 +6,5 @@
 Файлы с .tfvars и .tfvars.json в конце
 Файлы override.tf, override.tf.json, файлы с \_override.tf и \_override.tf.json в конце
 Файлы .terraformrc и terraform.rc
+
+Новая строчка
